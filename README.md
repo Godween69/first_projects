@@ -1,2 +1,2 @@
-# first_projects
+# first_project
 My first HTML/CSS/JS learning project
